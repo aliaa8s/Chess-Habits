@@ -1,0 +1,15 @@
++ Restricted:
+  - Never Resign
+  - Basic Sacrifices
+  - Spend under 5s per move
+  - Premoves under 3s
+  - Hover Pieces
+
++ Know:
+  - Basic openings & common responses
+  - Basic tactics: {fork, pin, skewer, discovers}
+
++ Foundation:
+  - Premove safe opening moves & recaptures
+  - Play active, not reactive
+  - Check when premoving
