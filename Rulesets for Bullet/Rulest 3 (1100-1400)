@@ -1,0 +1,14 @@
++ Restricted:
+  - Never Resign
+  - No Sacrifices
+  - Spend under 10s per move
+  - Premoves under 3s
+  - Use Basic Checkmates 
+
++ Know:
+  - Basic tactics: {fork, pin, skewer, discovers}
+
++ Foundation:
+  - Winning? promote pawns & capture pieces
+  - Flagging? capture all pieces to draw
+  - Losing give up pieces & pawns
