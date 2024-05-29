@@ -1,0 +1,28 @@
+- Don't hang free pieces; Take free pieces
+- When trade take with pieces first; Up Ps = trade down
+- Take most available trades: {3 Pieces > Q ; 2R > Q ; 2 Pieces > R ; 2 Pieces > R+P}
+- Avoid trades when down materials; Trade when up
+- When down a B, trade the remaining B with them
+- Against Fianchetto try to trade off their good B
+- Avoid trades when have isolated P
+- Pawn capture towards the center
+- Don't overlook {files, ranks, diagonals, and P captures} on every move
+- Play active, not reactive
+- Always try to simplify the position
+- Stuck? Offer trades
+- Rs positions: {to the open files, defend crucial Ps, or doubling for tatics}
+- Don't walk into pin; Always looking for forks from opp
+- Try to not open the h file when castled kingside; Looking for BQ battery
+- Pay attention to imbalances such as B vs K
+- Understand P structures, weak Ps, and color complexes
+- Control the square infront of backward/isolated P
+- Controlling squares is more important than attacking pieces
+- Overdefend is always good
+- A threat is often stronger than the execution
+- Look for key squares (f6, h6) & outposts; Try Knight jumps into the middle
+- Nh2/Bf1/Nf8 vs Bishop/Queen sac, and bring pieces to the King immediately, replace Ps with pieces
+- Kg2 is a good move after g4; h3+g4+Kg2 follow up; Opps Nb4 -> Bb1+a3 & return
+- Push side Ps against their advanced b and g Ps
+- Tactics: Forks, Pins, Skewers, Discoveries, and capilizations based on those tatics
+- Advanced Tactics: Exchange Sac, Clearance Sac, Overloading, Interference, Underpromotion
+- Run opp out of move, zugzwang or waiting move
